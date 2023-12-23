@@ -18,7 +18,7 @@ Our Genetic Algorithm-Based VRS is not just about optimizing routes; it's about 
 <ul>
   <li><strong>Clone the Repository:</strong> git clone https://github.com/Kapoor-Tushar/Vehicle-Routing-System-with-Genetic-Algorithm.git</li>
   <li><strong>Installation of packages:</strong> First install node on your computer and then install all the dependencies present in package.json file. </li>
-  <li><strong>Setting up Database(MongoDB):</strong> Create a account of mongoDB atlas, then create a cluster and then connect your cluste with the app by adding the connection string in the DATABASE filed in config file.</li>
+  <li><strong>Setting up Database(MongoDB):</strong> Create a account of mongoDB atlas, then create a cluster and then connect your cluste with the app by adding the connection string in the DATABASE field in config file.</li>
   <li><strong>Run the Application:</strong> After successful installation of packages and mongoDB set up run the server in VSCode with the help of the command nodemon server.js and then go to the local host at port number 7000 in your web browser.</li>
 </ul>
 
@@ -26,7 +26,6 @@ Our Genetic Algorithm-Based VRS is not just about optimizing routes; it's about 
 ![image](https://github.com/Kapoor-Tushar/Vehicle-Routing-System-with-Genetic-Algorithm/assets/82567111/da11c1f4-141d-402e-9833-7ee6307730cf)
 ![image](https://github.com/Kapoor-Tushar/Vehicle-Routing-System-with-Genetic-Algorithm/assets/82567111/0126de15-568b-461f-85e9-52fe331b371d)
 ![image](https://github.com/Kapoor-Tushar/Vehicle-Routing-System-with-Genetic-Algorithm/assets/82567111/a55237a0-da5e-497a-8790-ca0b1c5f76b1)
-![image](https://github.com/Kapoor-Tushar/Vehicle-Routing-System-with-Genetic-Algorithm/assets/82567111/6b9a0a99-532f-4733-bce8-93eea635487c)
 ![image](https://github.com/Kapoor-Tushar/Vehicle-Routing-System-with-Genetic-Algorithm/assets/82567111/6dffadb9-5a7c-42cc-896d-c20342e8df1a)
 ![image](https://github.com/Kapoor-Tushar/Vehicle-Routing-System-with-Genetic-Algorithm/assets/82567111/d1c06659-852e-4c83-9121-3156c2747f0b)
 
